@@ -48,7 +48,7 @@ print('Count :',c)
 f.close()
 ```
 ### OUTPUT:
-![output](/abc.png)
+![output007](/abc.png)
 
 
 ## RESULT:
