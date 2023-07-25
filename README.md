@@ -49,7 +49,7 @@ f.close()
 ```
 ### OUTPUT:
 
-![AAA](/AAA.png)
+![AAA](/OUTPUT.png)
 
 
 ## RESULT:
