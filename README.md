@@ -48,6 +48,7 @@ print('Count :',c)
 f.close()
 ```
 ### OUTPUT:
+
 ![out](/AAA.png)
 
 
